@@ -1,0 +1,5 @@
+.memory-tile {
+    grid-area: auto;
+    align-self: center;
+    justify-self: center;
+}
