@@ -10,7 +10,7 @@ class MemoryTile extends Component {
         
         return (
             <div id={value} className='memory-tile'>
-                <p className='memory-tile-text'>
+                <p className='memory-tile-text list-item grid'>
                     {value}
                 </p>
             </div>
